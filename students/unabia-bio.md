@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G02
+- Favorite Language: Java
+- One Git Tip Learned: there is always a solution to every conflict
+- GitHub: @FrancesLgheUnabia
